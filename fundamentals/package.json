@@ -1,0 +1,17 @@
+{
+  "name": "mongo-mongoose-mocha",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "nodemon --exec mocha -R min"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^4.1.0",
+    "mongoose": "^5.0.0-rc2",
+    "nodemon": "^1.14.8"
+  }
+}
